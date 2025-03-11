@@ -7,9 +7,11 @@ What I Do:
 4. Process Automation – Streamline workflows using Python, SQL, and APIs to improve reporting efficiency and reduce manual effort.
 
 What You’ll Find Here:
-📊 Real-Time Dashboards – Dynamic visualizations tracking key business metrics.
-🔄 ETL & Data Pipelines – Efficient data workflows for seamless processing.
-📈 Data Science Projects – Predictive modeling and trend analysis.
-🛠 Automation Scripts – Python-based solutions to enhance productivity.
+- 📊 Real-Time Dashboards – Dynamic visualizations tracking key business metrics.
+- 🔄 ETL & Data Pipelines – Efficient data workflows for seamless processing.
+- 📈 Data Science Projects – Predictive modeling and trend analysis.
+- 🛠 Automation Scripts – Python-based solutions to enhance productivity.
+ 
+I am passionate about using data to solve problems and optimise business operations. 
 
-I am passionate about using data to solve problems and optimise business operations. Feel free to explore my projects, and let’s connect! 
+Feel free to explore my projects, and let’s connect :D
