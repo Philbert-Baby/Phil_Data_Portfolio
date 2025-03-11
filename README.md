@@ -1,4 +1,6 @@
-Welcome to my data portfolio! I am an experienced Data Analyst specialising in data analysis, visualisation, and automation, leveraging my skills in SQL, Python, and BI tools to transform raw data into actionable insights.
+Welcome to my data portfolio! 
+
+I am an experienced Data Analyst specialising in data analysis, visualisation, and automation, leveraging my skills in SQL, Python, and BI tools to transform raw data into actionable insights.
 
 What I Do:
 1. Data Analysis & Reporting – Extract, clean, and analyze complex datasets to uncover trends and drive business decisions.
